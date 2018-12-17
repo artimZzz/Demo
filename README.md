@@ -2,7 +2,7 @@
 
 Offsite Testing for react-native
 
-This project is made by [@Tim](https://github.com/jayesbe)'s as an offsite testing demonstration.
+This project is made by [@Tim](https://github.com/artimZzz/Demo)'s as an offsite testing demonstration.
 
 ## Running Environment
 
