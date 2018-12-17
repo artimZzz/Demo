@@ -59,5 +59,5 @@ export const getTabStackNavigator = (index) => {
 const DebugRoute = { DummyScreen: { screen: DummyScreen }, LandingScreen: { screen: LandingScreen }, ...CommonRoute };
 const RootRoute = { LandingScreen: { screen: LandingScreen }, ...CommonRoute };
 // const RootRoute = { RootScreen: { screen: RootScreen }, ...CommonRoute };
-export const RootStackNavigator = createStackNavigator(DebugRoute, { headerMode: 'none', transitionConfig: verticalTransition });
+export const RootStackNavigator = createStackNavigator(RootRoute, { headerMode: 'none', transitionConfig: verticalTransition });
 export const AppContainer = createAppContainer(RootStackNavigator);
