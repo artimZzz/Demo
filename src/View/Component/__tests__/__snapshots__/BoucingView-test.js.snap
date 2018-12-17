@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "transform": Array [
+        Object {
+          "scaleX": 1,
+        },
+        Object {
+          "scaleY": 1,
+        },
+      ],
+    }
+  }
+/>
+`;

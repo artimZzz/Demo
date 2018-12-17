@@ -1,0 +1,8 @@
+{
+    "recommend": "推介",
+    "search_placeholder": "搜尋",
+    "loading_more": "讀取中",
+    "api_fetching_error": "未能存取資料，請確認連線穩定，再試一次",
+    "connect": "連線",
+    "connect_error_description": "建立連線時出現錯誤，請按上方按鈕重新連線。"
+}

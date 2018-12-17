@@ -1,0 +1,8 @@
+{
+    "recommend": "Editor Choice",
+    "search_placeholder": "Search",
+    "loading_more": "Loading ...",
+    "api_fetching_error": "Cannot get data, please check your network and try again",
+    "connect": "Connect",
+    "connect_error_description": "Error establishing connection, please press above button to reconnect."
+}
